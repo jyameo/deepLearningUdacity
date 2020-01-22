@@ -1,4 +1,4 @@
-Deep Learning Fundamentals
+# Deep Learning Fundamentals
 
 1. Simple NN prediction: bike_sharing-neural_network
 2. CNN: CIFAR-10 classifier - image_classifier-convolutional_network
