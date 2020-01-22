@@ -1,5 +1,7 @@
 # Deep Learning Fundamentals
 
+## Implementation of various Deep Learning Algorithms:
+
 1. Simple NN prediction: bike_sharing-neural_network
 2. CNN: CIFAR-10 classifier - image_classifier-convolutional_network
 3. RNN: Language Translation - language_translation_eng_fr-RNN
